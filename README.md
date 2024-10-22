@@ -12,4 +12,4 @@ It will then tell you the following information:
 - Percentage of a 74 minute disc 
 - Percentage of a 80 minute disc
 
- ![Screenshot 2024-10-22 232200](https://github.com/user-attachments/assets/b2b71cb7-8d57-4999-81e9-02d06cc3c71b)
+![Screenshot 2024-10-23 000053](https://github.com/user-attachments/assets/6c78ec66-53d7-481f-9cae-aedab69935f7)
