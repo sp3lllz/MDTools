@@ -1,4 +1,4 @@
-# MinidiscDurationCalc
+# MDTools
 
 I created a program to quickly help me with maximising the runtime on minidiscs. 
 
